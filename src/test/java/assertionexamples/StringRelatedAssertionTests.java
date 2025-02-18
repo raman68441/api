@@ -135,6 +135,8 @@ public class StringRelatedAssertionTests {
             .assertThat ()
             .body ("page", equalTo (2), "data[0].first_name", equalTo ("Michael"), "support.url", is (notNullValue ()));
 
+        System.out.println("get the details");
+
     }
 
     @AfterMethod
