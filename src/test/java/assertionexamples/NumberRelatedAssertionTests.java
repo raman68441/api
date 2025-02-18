@@ -78,6 +78,8 @@ public class NumberRelatedAssertionTests {
             .assertThat ()
             .body ("total", lessThan (14))
             .body ("total_pages", lessThanOrEqualTo (3));
+
+        System.out.println("ramanjan");
     }
 
     @AfterMethod
