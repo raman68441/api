@@ -17,10 +17,7 @@ import org.testng.annotations.Test;
 //kathrik
 //kdiekla;
 //ramajanejkls
-<<<<<<< Updated upstream
-//asd
-=======
->>>>>>> Stashed changes
+
 /**
  * @author Faisal Khatri
  * @since 1/10/2023
